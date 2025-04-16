@@ -1,3 +1,4 @@
 Voici une phrase ajoutée pour l’exercice Git.
 BONJOUR PIERRO 
 del PIERRO
+tu fais quoi maintenant mon frere
